@@ -1,0 +1,93 @@
+
+[A79]“Alto User’s Handbook”
+
+Xerox Palo Alto Research Center, September 1979 
+
+这是一个惊人的系统，其影响远超它的预期。之所以出名，是因为史蒂夫·乔布斯读过它，他记了笔记，
+由此创建了 Lisa，最终将其变成了 Mac。
+
+---
+
+[C+04]“Microreboot — A Technique for Cheap Recovery”
+
+George Candea, Shinichi Kawamoto, Yuichi Fujiki, Greg Friedman, Armando Fox OSDI ’04, San Francisco, CA,
+December 2004
+
+一篇优秀的论文，指出了在建立更健壮的系统时重启可以做到什么程度。
+
+---
+
+[I11]“Intel 64 and IA-32 Architectures Software Developer’s Manual”Volume 3A and 3B: System Programming
+Guide
+
+Intel Corporation, January 2011
+
+---
+
+
+[K+61]“One-Level Storage System”
+
+T. Kilburn, D.B.G. Edwards, M.J. Lanigan, F.H. Sumner IRE Transactions on Electronic Computers, April 1962
+
+Atlas 开创了你在现代系统中看到的大部分技术。但是，这篇论文并不是最好的一篇。如果你只打算阅读一
+篇，不妨看看其中历史观点[L78]。
+
+---
+
+[L78]“The Manchester Mark I and Atlas: A Historical Perspective”
+
+S. H. Lavington
+
+Communications of the ACM, 21:1, January 1978
+
+计算机早期发展的历史和 Atlas 的开拓性工作。
+
+---
+
+[M+63]“A Time-Sharing Debugging System for a Small Computer”
+
+J. McCarthy, S. Boilen, E. Fredkin, J. C. R. Licklider AFIPS ’63 (Spring), May, 1963, New York, USA
+
+关于分时共享的早期文章，提出使用时钟中断。这篇文章讨论了这个问题：“通道 17 时钟例程的基本任务，
+是决定是否将当前用户从核心中移除，如果移除，则决定在移除它时换成哪个用户程序。”
+
+---
+
+[MS96]“lmbench: Portable tools for performance analysis”Larry McVoy and Carl Staelin
+
+USENIX Annual Technical Conference, January 1996
+
+一篇有趣的文章，关于如何测量关于操作系统及其性能的许多不同指标。请下载 lmbench 并试一试。
+
+---
+
+[M11]“macOS 9”
+
+January 2011
+
+---
+
+[O90]“Why Aren’t Operating Systems Getting Faster as Fast as Hardware?”
+
+J. Ousterhout
+
+USENIX Summer Conference, June 1990
+
+一篇关于操作系统性能本质的经典论文。
+
+---
+
+[P10]“The Single UNIX Specification, Version 3”The Open Group, May 2010
+
+该文读起来晦涩难懂，不建议阅读。
+
+---
+
+[S07]“The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls (on the x86)”Hovav
+Shacham
+
+CCS ’07, October 2007
+
+有些文章会让你在研读过程中不时看到一些令人惊叹、令人兴奋的想法，这就是其中之一。作者告诉你，
+如果你可以随意跳入代码，就可以将你喜欢的任何代码序列（给定一个大代码库）进行基本拼接。请阅读
+文中的细节。这项技术使得抵御恶意攻击更难。

@@ -1,0 +1,64 @@
+
+[B+79]“The Convoy Phenomenon”
+
+M. Blasgen, J. Gray, M. Mitoma, T. Price
+
+ACM Operating Systems Review, 13:2, April 1979
+
+也许是第一次在数据库和操作系统中提到护航效应。
+
+---
+
+[C54]“Priority Assignment in Waiting Line Problems”
+
+A. Cobham
+
+Journal of Operations Research, 2:70, pages 70–76, 1954
+
+关于使用 SJF 方法调度修理机器的开创性论文。
+
+---
+
+[K64]“Analysis of a Time-Shared Processor”Leonard Kleinrock
+
+Naval Research Logistics Quarterly, 11:1, pages 59–73, March 1964
+
+该文可能是第一次提到轮转调度算法，当然是调度时分共享系统方法的最早分析之一。
+
+---
+
+[CK68]“Computer Scheduling Methods and their Countermeasures”Edward G. Coffman and Leonard Kleinrock
+
+AFIPS ’68 (Spring), April 1968
+
+一篇很好的早期文章，其中还分析了一些基本调度准则。
+
+---
+
+[J91]“The Art of Computer Systems Performance Analysis:
+Techniques for Experimental Design, Measurement, Simulation, and Modeling”
+
+R. Jain
+
+Interscience, New York, April 1991
+
+计算机系统测量的标准教科书。当然，这对你的库是一个很好的参考。
+
+---
+
+[PV56]“Machine Repair as a Priority Waiting-Line Problem”Thomas E. Phipps Jr. and W. R. Van Voorhis
+
+Operations Research, 4:1, pages 76–86, February 1956
+
+有关后续工作，概括了来自 Cobham 最初工作的机器修理 SJF 方法，也假定了在这样的环境中 STCF 方法
+的效用。具体来说，“有一些类型的修理工作，……涉及很多拆卸，地上满是螺母和螺栓，一旦进行就不应
+该中断。在其他情况下，如果有一个或多个短工作可做，继续做长工作是不可取的（第 81 页）。”
+
+---
+
+[MB91]“The effect of context switches on cache performance”Jeffrey C. Mogul and Anita Borg
+
+ASPLOS, 1991
+
+关于缓存性能如何受上下文切换影响的一项很好的研究。在今天的系统中问题比较小，如今处理器每秒钟
+发出数十亿条指令，但上下文切换仍发生在毫秒的时间级别。

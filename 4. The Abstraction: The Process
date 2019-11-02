@@ -1,0 +1,41 @@
+[BH70]“The Nucleus of a Multiprogramming System”Per Brinch Hansen
+
+Communications of the ACM, Volume 13, Number 4, April 1970
+
+本文介绍了 Nucleus，它是操作系统历史上的第一批微内核（microkernel）之一。体积更小、系统更小的想
+法，在操作系统历史上是不断重复的主题。这一切都始于 Brinch Hansen 在这里描述的工作。
+
+---
+
+[CK+08]“The xv6 Operating System”
+
+Russ Cox, Frans Kaashoek, Robert Morris, Nickolai Zeldovich
+
+xv6 是世界上颇有魅力的、真实的小型操作系统。请下载并利用它来了解更多关于操作系统实际工作方式
+的细节。
+
+---
+
+[DV66]“Programming Semantics for Multiprogrammed Computations”Jack B. Dennis and Earl C. Van Horn
+
+Communications of the ACM, Volume 9, Number 3, March 1966
+
+本文定义了构建多道程序系统的许多早期术语和概念。
+
+---
+
+[L+75]“Policy/mechanism separation in Hydra”
+
+R. Levin, E. Cohen, W. Corwin, F. Pollack, W. Wulf SOSP 1975
+
+一篇关于如何在名为 Hydra 的研究操作系统中构建一些操作系统的早期论文。虽然 Hydra 从未成为主流操
+作系统，但它的一些想法影响了操作系统设计人员。
+
+---
+
+[V+65]“Structure of the Multics Supervisor”
+
+V.A. Vyssotsky, F. J. Corbato, R. M. Graham Fall Joint Computer Conference, 1965
+
+一篇关于 Multics 的早期论文，描述了我们在现代系统中看到的许多基本概念和术语。计算作为实用工具，
+这背后的一些愿景终于在现代云系统中得以实现。
