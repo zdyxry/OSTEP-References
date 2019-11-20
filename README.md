@@ -16,3 +16,4 @@
 13. The Abstraction: Address Spaces
 14. Interlude: Memory API
 15. Mechanism: Address Translation
+16. Segmentation
