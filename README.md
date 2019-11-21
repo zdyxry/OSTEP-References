@@ -17,3 +17,4 @@
 14. Interlude: Memory API
 15. Mechanism: Address Translation
 16. Segmentation
+17. Free-Space Management
