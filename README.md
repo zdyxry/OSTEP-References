@@ -19,3 +19,4 @@
 16. Segmentation
 17. Free-Space Management
 18. Paging: Introduction
+19. Paging: Faster Translations (TLBs)
